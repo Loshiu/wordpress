@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: monochrome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-13 15:40+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: www.xzxx.cc\n"
+"Language-Team: www.xzxx.cc <zeusgeats@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:12
+#, php-format
+msgid "Archive for the &#8216;<span id=\"keyword\"> %s </span>&#8217; Category"
+msgstr " &#8216;<span id=\"keyword\"> %s </span>&#8217; 分类"
+
+#: archive.php:15
+#, php-format
+msgid "Posts Tagged &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "&#8216;<span id=\"keyword\"> %s </span>&#8217;标签"
+
+#: archive.php:18
+#: archive.php:21
+#: archive.php:24
+#, php-format
+msgid "Archive for <span id=\"keyword\">%s</span>"
+msgstr "<span id=\"keyword\">%s</span>存档"
+
+#: archive.php:18
+#: comments.php:116
+#: functions.php:397
+msgid "F jS, Y"
+msgstr "Y年m月d日"
+
+#: archive.php:21
+msgid "F, Y"
+msgstr ""
+
+#: archive.php:24
+msgid "Y"
+msgstr ""
+
+#: archive.php:27
+msgid "Author Archive"
+msgstr "作者存档"
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr "博客存档"
+
+#: archive.php:44
+#: index.php:14
+#: page-nocomment.php:19
+#: page-noside-nocomment.php:16
+#: page-noside.php:18
+#: page.php:14
+#: search.php:22
+#: single.php:23
+msgid "Read more"
+msgstr "阅读全文"
+
+#: archive.php:51
+#: index.php:22
+#: search.php:29
+#: single.php:31
+msgid "POSTED BY"
+msgstr "作者："
+
+#: archive.php:54
+#: index.php:25
+#: search.php:32
+#: single.php:34
+msgid "CATEGORY"
+msgstr "分类："
+
+#: archive.php:57
+#: index.php:28
+#: search.php:35
+#: single.php:37
+msgid "<dt>TAGS</dt><dd>"
+msgstr "标签："
+
+#: archive.php:60
+#: comments.php:39
+#: index.php:31
+#: search.php:38
+#: single.php:40
+msgid "Write comment"
+msgstr "发表评论"
+
+#: archive.php:60
+#: index.php:31
+#: search.php:38
+#: single.php:40
+msgid "1 comment"
+msgstr "1 条评论"
+
+#: archive.php:60
+#: index.php:31
+#: search.php:38
+#: single.php:40
+#, php-format
+msgid "% comments"
+msgstr "% 条评论"
+
+#: archive.php:62
+#: comments.php:117
+#: index.php:33
+#: page-nocomment.php:17
+#: page-noside-nocomment.php:14
+#: page-noside.php:16
+#: page.php:12
+#: search.php:40
+#: single.php:42
+msgid "[ EDIT ]"
+msgstr "[编辑]"
+
+#: archive.php:72
+#: index.php:43
+#: page-nocomment.php:29
+#: page-noside-nocomment.php:24
+#: page-noside.php:25
+#: page.php:24
+#: search.php:48
+#: single.php:50
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "对不起，没有您要找的东西！"
+
+#: archive.php:85
+#: index.php:56
+#: search.php:57
+msgid "Older Entries"
+msgstr "较旧条目"
+
+#: archive.php:86
+#: index.php:57
+#: search.php:58
+msgid "Newer Entries"
+msgstr "较新条目"
+
+#: comments.php:10
+#: comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "该文章已被加密，请输入密码后浏览评论。"
+
+#: comments.php:41
+msgid "Comments RSS"
+msgstr "评论RSS"
+
+#: comments.php:46
+msgid "Trackback"
+msgstr "通告"
+
+#: comments.php:47
+#: comments.php:50
+msgid "Comments"
+msgstr "评论"
+
+#: comments.php:49
+msgid "Trackback are closed"
+msgstr "通告已关闭"
+
+#: comments.php:78
+msgid "No comments yet."
+msgstr "没有评论"
+
+#: comments.php:105
+msgid "TrackBack URL"
+msgstr "通告地址"
+
+#: comments.php:120
+msgid "Trackback from : "
+msgstr "通告来源："
+
+#: comments.php:126
+msgid "No trackbacks yet."
+msgstr "无通告。"
+
+#: comments.php:141
+msgid "Comment are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:156
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须 <a href=\"%s\">登录</a> 才能发表评论。"
+
+#: comments.php:175
+#: comments.php:177
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "退出 <a href=\"%1$s\">%2$s</a>."
+
+#: comments.php:175
+#: comments.php:177
+msgid "Log out of this account"
+msgstr "退出此帐号"
+
+#: comments.php:175
+msgid "[ Log out ]"
+msgstr "[ 退出 ]"
+
+#: comments.php:177
+msgid "Log out"
+msgstr "退出"
+
+#: comments.php:182
+msgid "NAME"
+msgstr "名字"
+
+#: comments.php:182
+#: comments.php:183
+msgid "( required )"
+msgstr "( 必填 )"
+
+#: comments.php:183
+msgid "E-MAIL"
+msgstr "邮箱"
+
+#: comments.php:183
+msgid "- will not be published -"
+msgstr "- 不会被公布-"
+
+#: comments.php:184
+msgid "URL"
+msgstr "网址"
+
+#: comments.php:197
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: footer.php:10
+msgid "Copyright &copy;&nbsp; "
+msgstr "版权&copy;&nbsp; "
+
+#: functions.php:184
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: functions.php:192
+msgid "Theme options have been saved."
+msgstr "主题设置已经保存。"
+
+#: functions.php:198
+msgid "Monochrome option"
+msgstr "设置Monochrome"
+
+#: functions.php:202
+#: functions.php:308
+msgid "Save Changes"
+msgstr "保存修改"
+
+#: functions.php:206
+msgid "Select width of monochrome."
+msgstr "选择monochrome宽度。"
+
+#: functions.php:208
+msgid "930px."
+msgstr ""
+
+#: functions.php:209
+msgid "1000px"
+msgstr ""
+
+#: functions.php:210
+msgid "1100px"
+msgstr ""
+
+#: functions.php:215
+msgid "Check if you would like to use original image for logo instead of using plain text.<br />( Don't forget to upload image into, <strong>wp-content/themes/monochrome/img/</strong> )"
+msgstr "如果你想用LOGO代替文本。<br />(别忘了上传LOGO至 <strong>wp-content/themes/monochrome/img/</strong> )"
+
+#: functions.php:216
+#: functions.php:223
+#: functions.php:232
+#: functions.php:242
+#: functions.php:249
+#: functions.php:254
+#: functions.php:270
+#: functions.php:273
+#: functions.php:276
+#: functions.php:279
+#: functions.php:282
+#: functions.php:287
+#: functions.php:305
+msgid "Yes"
+msgstr "是"
+
+#: functions.php:217
+msgid "Write your logo file name.<br />Example : <strong>logo.gif</strong>"
+msgstr "更改你的LOGO文件名。<br />如: <strong>logo.gif</strong>"
+
+#: functions.php:222
+msgid "Show Information on sidebar."
+msgstr "在侧边栏显示信息。"
+
+#: functions.php:224
+msgid "Information title."
+msgstr "标题信息"
+
+#: functions.php:226
+msgid "Information contents. ( HTML tag is available. )"
+msgstr "内容区域。（HTML标签可用）"
+
+#: functions.php:231
+msgid "Show rss feed on sidebar."
+msgstr "在侧边栏显示RSS订阅。"
+
+#: functions.php:236
+msgid "Position of search area on sidebar."
+msgstr "搜索框放在侧边栏。"
+
+#: functions.php:238
+msgid "Top"
+msgstr "顶部"
+
+#: functions.php:239
+msgid "Bottom"
+msgstr "底部"
+
+#: functions.php:241
+msgid "Use <a href=\"http://www.google.com/cse/\">Google Custom Search</a><br />(If you check this option,don't forget to write your Google Custom Search ID below.)"
+msgstr "使用<a href=\"http://www.google.com/cse/\">谷歌自定义搜索</a><br />(如果选中此项别忘记添加谷歌自定义搜索ID)"
+
+#: functions.php:243
+msgid "Input your Google Custom Search ID."
+msgstr "输入谷歌自定义搜索ID。"
+
+#: functions.php:248
+msgid "Show tag list under search area."
+msgstr "显示搜索框下的标签。"
+
+#: functions.php:253
+msgid "Check if you would like to use Custom Navigation Menus in WordPress 3.0."
+msgstr "如果你想使用wordpress 3.0自定义导航菜单选中此项。"
+
+#: functions.php:256
+msgid "Header menu."
+msgstr "顶部菜单。"
+
+#: functions.php:258
+msgid "Use pages for header menu."
+msgstr "使用页面做顶部菜单。"
+
+#: functions.php:259
+msgid "Use categories for header menu."
+msgstr "使用分类做顶部菜单"
+
+#: functions.php:261
+msgid "Exclude Pages (Page ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr "排除页面（你不想头部导航显示的页面ID，使用逗号分隔列表，如：1,2,3）"
+
+#: functions.php:263
+msgid "Exclude Categories (Category ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr "排除分类（你不想头部导航显示的分类ID，使用逗号分隔列表，如：1,2,3）"
+
+#: functions.php:269
+msgid "Show author name."
+msgstr "显示作者名字。"
+
+#: functions.php:272
+msgid "Show border around image in post area."
+msgstr "在文章区域显示图像边框。"
+
+#: functions.php:275
+msgid "Show bread crumb at single post page."
+msgstr "显示文章页面包屑导航"
+
+#: functions.php:278
+msgid "Show next preview post at the bottom of single post page."
+msgstr "在文章页底部显示下一个预览文章"
+
+#: functions.php:281
+msgid "Show tag."
+msgstr "显示标签"
+
+#: functions.php:286
+msgid "Show time on comment."
+msgstr "显示评论时间"
+
+#: functions.php:291
+msgid "Disable comment function."
+msgstr "禁用评论功能。"
+
+#: functions.php:292
+msgid "Disable"
+msgstr "禁用"
+
+#: functions.php:296
+msgid "Page navi type."
+msgstr "页面导航类型"
+
+#: functions.php:298
+msgid "Use Pager."
+msgstr "使用页码"
+
+#: functions.php:299
+msgid "Use normal style next-previous link."
+msgstr "使用正常风格的上一页、下一页链接"
+
+#: functions.php:304
+msgid "Check if you want to show Return top link."
+msgstr "如果你想要显示“返回顶部”，选中此项。"
+
+#: functions.php:397
+msgid " g:ia"
+msgstr ""
+
+#: functions.php:404
+#: functions.php:406
+#: functions.php:409
+msgid "REPLY"
+msgstr "回复"
+
+#: functions.php:411
+msgid "QUOTE"
+msgstr "引用"
+
+#: functions.php:412
+msgid "EDIT"
+msgstr "编辑"
+
+#: functions.php:418
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论等待审核。"
+
+#: functions.php:538
+msgid "There is no excerpt because this is a protected post."
+msgstr "没有摘录，因为这是一个受保护的文章。"
+
+#: header.php:9
+#, php-format
+msgid "Page %s"
+msgstr "页面%s"
+
+#: header.php:66
+#: single.php:10
+msgid "HOME"
+msgstr "首页"
+
+#: search.php:10
+msgid "Search results for "
+msgstr "搜索结果"
+
+#: search.php:10
+msgid " hit"
+msgstr "点击"
+
+#: sidebar.php:7
+msgid "Information"
+msgstr "信息"
+
+#: sidebar.php:8
+msgid "Change this sentence and title from admin Theme option page."
+msgstr "改变此项请到主题管理页面。"
+
+#: sidebar.php:12
+msgid "Entries RSS"
+msgstr "进入RSS"
+
+#: sidebar.php:12
+msgid "RSS FEED"
+msgstr "RSS订阅"
+
+#: sidebar.php:23
+#: sidebar.php:79
+msgid "Google Search"
+msgstr "谷歌搜索"
+
+#: sidebar.php:24
+#: sidebar.php:32
+#: sidebar.php:80
+#: sidebar.php:88
+msgid "Search from this blog."
+msgstr "搜索本博客"
+
+#: sidebar.php:31
+#: sidebar.php:87
+msgid "Search"
+msgstr "搜索"
+
+#: sidebar.php:38
+#: sidebar.php:94
+msgid "TAG LIST"
+msgstr "标签列表"
+
+#: sidebar.php:48
+msgid "Recent entry"
+msgstr "最新文章"
+
+#: sidebar.php:58
+msgid "Archive"
+msgstr "存档"
+
+#: sidebar.php:65
+msgid "Category"
+msgstr "分类"
+
+#: sidebar.php:75
+msgid "SEARCH"
+msgstr "搜索"
+
